@@ -1,0 +1,11 @@
+﻿  Point.cpp
+  Reader.cpp
+D:\ShubhamRathod\cpp\Translator\Translator\Source\Reader.cpp(22,11): error C2512: 'Point': no appropriate default constructor available
+      D:\ShubhamRathod\cpp\Translator\Translator\Header\Point.h(8,7):
+      see declaration of 'Point'
+  
+D:\ShubhamRathod\cpp\Translator\Translator\Source\Reader.cpp(40,60): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Translator.cpp
+  Triangle.cpp
+  Writer.cpp
+  Generating Code...
