@@ -21,4 +21,4 @@ public:
     friend std::ostream& operator<<(std::ostream& os, const Point& pt);
 };
 
-#endif // POINT_H
+#endif // POINT_H            
