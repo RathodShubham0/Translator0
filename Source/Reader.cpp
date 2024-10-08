@@ -46,3 +46,4 @@ vector<Point> Reader::read() {
 vector<double> Reader::get_unique_points() {
     return unique_points;
 }
+
